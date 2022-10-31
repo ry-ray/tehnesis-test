@@ -43,7 +43,10 @@ export default {
   border: 5px solid rgba(98, 0, 234, 0.5);
   border-radius: 10px;
 }
-
+.excursions__items:hover{
+  background-color: rgba(98, 0, 234, 0.4);
+  cursor: pointer;
+}
 .excursion__item {
   font-size: 1.5em;
 }

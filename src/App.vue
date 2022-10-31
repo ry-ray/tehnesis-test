@@ -60,14 +60,13 @@ export default {
 
         {
           id: 4,
-          title: "Экскурсия в янтарный",
+          title: "Экскурсия в Янтарный",
           tags: {
             rating: { id: 1, icon: "mdi-star", value: 5 },
             description: { id: 2, value: "Историческая" },
             transport: { id: 3, icon: "mdi-bus", value: "На автобусе" },
             date: { id: 4, value: "29 марта" },
-            duration: { id: 5, icon: "mdi-clock-time-three-outline", value: "6 часов",
-            },
+            duration: { id: 5, icon: "mdi-clock-time-three-outline", value: "6 часов"},
             num: { id: 6, icon: "mdi-account", value: "до 80 человек" },
             place: { id: 7, icon: "mdi-map-marker", value: "Янтарный" },
           },
